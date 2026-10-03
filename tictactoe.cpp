@@ -1,3 +1,7 @@
+/* Ellie Goto
+   10/2/2026
+   This is a tictactoe game. The game starts with the X player and counts how many times each player won. */
+
 #include <iostream>
 
 using namespace std;
